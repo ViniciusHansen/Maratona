@@ -15,7 +15,7 @@ int main(){
         if (a == 9)
         {
             cout << 'F' << endl;
-            return 1;
+            return 0;
         }
         
     }
